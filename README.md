@@ -1,0 +1,1 @@
+# EzDomain.EventSourcing.Extensions.DependencyInjection
